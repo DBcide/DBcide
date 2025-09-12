@@ -60,5 +60,5 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-purple?style=flat-square&logo=phpstorm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-purple?style=flat-square&logo=webstorm)
-![Rider](https://img.shields.io/badge/-JB_Rider-purple?style=flat-square&logo=rider)
+![Rider](https://img.shields.io/badge/-Rider-purple?style=flat-square&logo=rider)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-purple?style=flat-square&logo=intellijIdea)
