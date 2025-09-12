@@ -62,4 +62,4 @@ IDEs:
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-purple?style=flat-square&logo=phpstorm)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-purple?style=flat-square&logo=webstorm)
 ![Rider](https://img.shields.io/badge/-Rider-purple?style=flat-square&logo=rider)
-![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-purple?style=flat-square&logo=intellijIdea)
+![Intellij IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=flat-square&logo=intellijIdea)
