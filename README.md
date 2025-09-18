@@ -63,4 +63,4 @@ IDEs:
 ![WebStorm](https://img.shields.io/badge/-WebStorm-purple?style=flat-square&logo=webstorm)
 ![Rider](https://img.shields.io/badge/-Rider-purple?style=flat-square&logo=rider)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-purple?style=flat-square&logo=intellijIdea)
-![Android Studio](https://img.shields.io/badge/-Android Studio-white?style=flat-square&logo=androidstudio)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-white?style=flat-square&logo=androidstudio)
