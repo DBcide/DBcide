@@ -30,12 +30,12 @@ These are some of the technologies and tools that I work with:
 Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3370CC?style=flat-square&logo=javascript)
 ![Php](https://img.shields.io/badge/-php-FFF8CC?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=Java)
 
 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3370CC?style=flat-square&logo=javascript)
 ![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
