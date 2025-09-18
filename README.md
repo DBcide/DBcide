@@ -31,7 +31,7 @@ Backend:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Php](https://img.shields.io/badge/-php-033636?style=flat-square&logo=php)
+![Php](https://img.shields.io/badge/-php-FFF8CC?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=Java)
 
 Frontend
